@@ -1,7 +1,7 @@
 {
-  "homepage": "https://Dugicha.github.io/",
+  "homepage": "https://Dugicha.github.io/AI_Summarizer",
   "name": "ai-summarizer",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
